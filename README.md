@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haris</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
 
-- 🔭 I’m currently working on **Plan It**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Haris1221](https://github.com/Haris1221)
 
 - 📫 How to reach me **haris199x@gmail.com**
